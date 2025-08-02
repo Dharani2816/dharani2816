@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br><br>Hi 👋, I'm Dharani Kumar K.S<br>I am a Computer Science Undergraduate at<br>Madras Institute of Technology<br><br>🌱 I’m currently learning Data Structures and Algorithm<br><br>📫 How to reach me sarandharan514@gmail.com
+💫 About Me:<br><br>Hi 👋, I'm Dharani Kumar K.S<br>I am a Computer Science Undergraduate at<br>Madras Institute of Technology<br><br>🌱 I’m currently learning Data Structures<br><br>📫 How to reach me sarandharan514@gmail.com
 
 
 ## 🌐 Socials:
