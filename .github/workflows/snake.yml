@@ -7,6 +7,7 @@ on:
   push:
     branches:
       - main
+      - master
 
 jobs:
   generate:
@@ -14,13 +15,13 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animation
+      - name: Generate snake animation (phosphor green on black)
         uses: Platane/snk@v3
         with:
           github_user_name: Dharani2816
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#00ff41&color_dots=#161b22,#0a4d1c,#008f24,#00c832,#00ff41&color_background=#0d1117
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#00ff41&color_dots=#161b22,#0a4d1c,#008f24,#00c832,#00ff41&color_background=#0d1117
 
       - name: Push output to "output" branch
         uses: crazy-max/ghaction-github-pages@v4
