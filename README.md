@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=%3E_%20Dharani%20Kumar%20K%20S&fontSize=44&fontColor=00ff41&fontAlignY=40&desc=CSE%20%40%20Madras%20Institute%20of%20Technology%20%20%7C%20%20Full-Stack%20Developer%20%20%7C%20%20Systems%20%26%20Networking%20Enthusiast&descSize=15&descAlignY=72&descAlign=50&animation=fadeIn" width="100%" alt="Dharani Kumar K S - CSE at Madras Institute of Technology - Full-Stack Developer, Systems and Networking Enthusiast" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=%3E_%20Dharani%20Kumar%20K%20S&fontSize=44&fontColor=00ff41&fontAlignY=40&desc=CSE%20%40%20Madras%20Institute%20of%20Technology%20%20%7C%20%20Full-Stack%20Developer%20%20%7C%20%20Systems%20and%20Networking%20Enthusiast&descSize=15&descAlignY=72&descAlign=50&animation=fadeIn" width="100%" alt="Dharani Kumar K S - CSE at Madras Institute of Technology - Full-Stack Developer, Systems and Networking Enthusiast" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=00FF41&background=0D111700&center=true&vCenter=true&width=720&height=45&lines=%3E+Full-Stack+Web+Developer;%3E+Self-healing+SDN+%2B+AI-assisted+routing;%3E+React+%2B+Node.js+%2B+Express+%2B+MongoDB;%3E+Real-time+apps+with+Socket.IO+%2B+Redis;%3E+DSA+in+C%2B%2B%2C+one+problem+at+a+time" alt="Typing animation cycling through: full-stack developer, self-healing SDN and AI-assisted routing, React and Node.js, Socket.IO and Redis, DSA in C++" />
 
@@ -107,8 +107,8 @@ A multi-step calculator covering home energy, transport and diet, with a persona
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.hackclub.dev/api?username=Dharani2816&show_icons=true&hide_rank=true&bg_color=0d1117&title_color=ffb000&text_color=00ff41&icon_color=00ff41&border_color=00ff41" alt="GitHub stats for Dharani2816" />
-<img height="150" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=Dharani2816&layout=compact&langs_count=6&bg_color=0d1117&title_color=ffb000&text_color=00ff41&border_color=00ff41" alt="Most used languages of Dharani2816" />
+<img height="150" src="https://readme-stats-fast.vercel.app/api?username=Dharani2816&show_icons=true&hide_rank=true&bg_color=0d1117&title_color=ffb000&text_color=00ff41&icon_color=00ff41&border_color=00ff41" alt="GitHub stats for Dharani2816" />
+<img height="150" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=Dharani2816&layout=compact&langs_count=6&bg_color=0d1117&title_color=ffb000&text_color=00ff41&border_color=00ff41" alt="Most used languages of Dharani2816" />
 
 <img src="https://streak-stats.demolab.com/?user=Dharani2816&background=0d1117&border=00ff41&stroke=00ff41&ring=ffb000&fire=ffb000&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=ffb000&sideLabels=ffb000&dates=8b949e" alt="Contribution streak for Dharani2816" />
 
